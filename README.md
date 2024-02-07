@@ -18,14 +18,14 @@ Can be integrated with any application that supports REST API
 Suitable for a wide range of use cases.
 
 ## Tech Stack
-JAVA
-SPRING
-SPRINGBOOT
-HIBERNATE
-MAVEN
-J.D.B.C
-MYSQL
-POSTMAN
+# JAVA
+# SPRING
+# SPRINGBOOT
+# HIBERNATE
+# MAVEN
+# J.D.B.C
+# MYSQL
+# POSTMAN
 
 ## Dependencies
 SPRING DATA JPA
